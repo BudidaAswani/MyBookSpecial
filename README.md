@@ -43,7 +43,7 @@ MyBookSpecial/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/BudidaAswani07/MyBookSpecial.git
+git clone https://github.com/BudidaAswani/MyBookSpecial.git
 cd MyBookSpecial
 ```
 
@@ -105,4 +105,4 @@ Feel free to fork this repository and contribute!
 
 ## ⭐ If you like this project
 
-Give it a ⭐ on GitHub!
+If you like this project, give it a ⭐ on GitHub!
